@@ -31,3 +31,8 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# for macOS users
+.Ds_Store
+
+# cache pres/.cache/

@@ -1,0 +1,26 @@
+
+--- .transition
+
+# Outils pour une science reproductible
+
+
+---
+# UNIX
+
+```bash
+pwd
+echo "cool"
+for i in `seq 1 10`; do echo $i; done
+```
+
+
+---
+# Git, Github et Gitlab
+
+- Utiliser [*font-awesome*](http://fontawesome.io)
+
+[<i class="fa fa-git" fa-4x></i>](https://git-scm.com)
+
+[<i class="fa fa-gitlab" fa-4x></i>](https://about.gitlab.com)
+
+[<i class="fa fa-github" fa-4x></i>](https://github.com)

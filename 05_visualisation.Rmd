@@ -1,0 +1,63 @@
+
+--- .transition
+
+# Visualisation
+## représenter ses données (2 cours)
+
+
+<!-- Loading the script associated to this section -->
+
+```{r echo=FALSE}
+knitr::read_chunk("../scripts/visualisation.R")
+```
+
+
+--- &twocol
+
+# Graphiques avec R
+
+
+*** =left
+
+```{r eval=FALSE, comment="R>"}
+plot(0,0)
+
+```
+
+*** pnotes Ici on peu entrer les notes dont on a besoin.
+
+*** =right
+
+```{r echo=FALSE, eval=TRUE}
+par(bg="transparent")
+plot(0,0)
+```
+
+
+
+
+--- &twocol
+
+# Graphiques avec R
+
+
+*** =left
+
+```{r eval=FALSE}
+<<plot1>>
+```
+
+*** =right
+
+```{r echo=FALSE, eval=TRUE}
+<<plot1>>
+```
+
+
+---
+
+# Graphiques avec R
+
+```{r, fig.width=5, fig.height=5}
+<<plot2>>
+```

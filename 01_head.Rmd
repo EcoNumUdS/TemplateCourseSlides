@@ -1,0 +1,34 @@
+---
+title       : "Méthodes en écologie computationnelle BIO500"
+subtitle    : "pour une science reproductible"
+author      : "Kévin Cazelles, Dominique Gravel et Steve Vissault"
+job         : "Laboratoire d'Ecologie Integrative " #(http://ielab.recherche.usherbrooke.ca)
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      #
+mode        : selfcontained
+knit        : slidify::knit2slides
+widgets     : [mathjax]
+url:
+  lib   : ./libraries
+license     : by-nc-sa
+assets      :
+  css: "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
+---
+
+
+
+
+
+# Contenu du cours
+
+<!-- *** les notes du cours -->
+
+1. <a href="#" target="_self" data-slide=3> Introduction </a>
+
+2.  <a href="#" target="_self" rel='tooltip'
+        data-slide=5 title='Exemple à deux colonnes'>
+         5
+      </a>
+
+3. [Laboratoire d'Ecologie Integrative](http://ielab.recherche.usherbrooke.ca)
