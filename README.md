@@ -1,5 +1,7 @@
 # diapoBIO500
 
+[![Build Status](https://travis-ci.org/TheoreticalEcosystemEcology/diapoBIO500.svg?branch=master)](https://travis-ci.org/TheoreticalEcosystemEcology/diapoBIO500)
+
 Diaporama pour le cours **BIo500**. Fait avec
 <i class="fa fa-heart" aria-hidden="true"></i> avec
 [Slidify](http://slidify.org) et le framework "ioslides 2012".
