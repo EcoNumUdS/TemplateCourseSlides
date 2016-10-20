@@ -1,7 +1,0 @@
-
---- .transition
-# Collecte et organisation des données
-## Coucou
-
----
-# Premier titre
