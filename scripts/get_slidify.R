@@ -1,4 +1,4 @@
-if(Sys.getenv('TRAVIS') != true){
+if(Sys.getenv('TRAVIS') != TRUE){
   ## Installation package slidify if not installed
   if (!require(slidify)){
     if (!require(devtools)) install.packages("devtools")
