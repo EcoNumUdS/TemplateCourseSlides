@@ -1,4 +1,3 @@
 Title: Diapo cours BIO500 (UdS)
 Version: 0.0.1
-Imports: slidify, devtools
-Remotes: TheoreticalEcosystemEcology/diapoBIO500
+Remotes: ramnathv/slidify, ramnathv/slidifyLibraries
