@@ -2,7 +2,7 @@ inpu := $(wildcard *.Rmd)
 inpr := $(wildcard scripts/*.R)
 html = ./pres/index.html
 
-ALL: $(html)
+all: $(html)
 
 $(html): $(inpu) $(inpr)
 	rm -rf ./pres/.cache
