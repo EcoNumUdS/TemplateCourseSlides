@@ -1,3 +1,4 @@
 Title: Diapo cours BIO500 (UdS)
 Version: 0.0.1
+Imports: slidify
 Remotes: ramnathv/slidify, ramnathv/slidifyLibraries
