@@ -157,15 +157,15 @@ R> lm(formula = runif(100) ~ 1)
 R> 
 R> Residuals:
 R>      Min       1Q   Median       3Q      Max 
-R> -0.54293 -0.18809 -0.01518  0.24400  0.44983 
+R> -0.48763 -0.18804 -0.03828  0.22595  0.48138 
 R> 
 R> Coefficients:
 R>             Estimate Std. Error t value Pr(>|t|)    
-R> (Intercept)  0.54596    0.02834   19.27   <2e-16 ***
+R> (Intercept)  0.50777    0.02652   19.15   <2e-16 ***
 R> ---
 R> Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 R> 
-R> Residual standard error: 0.2834 on 99 degrees of freedom
+R> Residual standard error: 0.2652 on 99 degrees of freedom
 ```
 
 ---
@@ -179,15 +179,15 @@ R> Residual standard error: 0.2834 on 99 degrees of freedom
 ## 
 ## Residuals:
 ##      Min       1Q   Median       3Q      Max 
-## -0.45615 -0.27485 -0.02098  0.27726  0.49784 
+## -0.44944 -0.22349 -0.03212  0.20967  0.53179 
 ## 
 ## Coefficients:
 ##             Estimate Std. Error t value Pr(>|t|)    
-## (Intercept)  0.50066    0.02965   16.89   <2e-16 ***
+## (Intercept)  0.45874    0.02778   16.51   <2e-16 ***
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ## 
-## Residual standard error: 0.2965 on 99 degrees of freedom
+## Residual standard error: 0.2778 on 99 degrees of freedom
 ```
 
 
