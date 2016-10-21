@@ -1,4 +1,4 @@
-# diapoBIO500
+# Exemple de diapo avec `slidify`
 
 [![Build Status](https://travis-ci.org/TheoreticalEcosystemEcology/diapoBIO500.svg?branch=master)](https://travis-ci.org/TheoreticalEcosystemEcology/diapoBIO500)
 
